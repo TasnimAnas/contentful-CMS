@@ -10,7 +10,8 @@ const Hero = () => {
             A final year B.tech guy exploring different technologies like Web
             Development (Full Stack - MERN), App Development (Flutter), Machine
             Learning (Python, Flask, Scikit-Learn), Cloud (AWS, Firebase,
-            Heroku) and Database technologies like SQL and NoSQL (MongoDB)
+            Heroku) and Database technologies like SQL (MySQL, PostgreSQL) and
+            NoSQL (MongoDB)
           </p>
         </div>
         <img src={heroImage} alt="heroImage" className="heroImage" />
