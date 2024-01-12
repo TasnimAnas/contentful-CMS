@@ -35,7 +35,7 @@
   }
 
   .heroTexts h1 {
-    margin-bottom: 12px;
+    margin-bottom: 16px;
     font-size: 30px;
   }
 
@@ -44,6 +44,6 @@
   }
 
   .heroCenter {
-    width: 85%;
+    width: 82%;
   }
 }
