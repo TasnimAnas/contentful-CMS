@@ -11,7 +11,7 @@ const Hero = () => {
             Web Development (Full Stack - MongoDB, Express, React, Node), App
             Development (Flutter), Machine Learning (Python, Flask,
             Scikit-Learn), Cloud (AWS, Firebase, Heroku), and Database
-            Technologies like SQL (MySQL, PostgreSQL) and NoSQL (MongoDB)
+            Technologies like SQL (MySQL, PostgreSQL) and NoSQL.
           </p>
         </div>
         <img src={heroImage} alt="heroImage" className="heroImage" />
