@@ -7,11 +7,12 @@ const Hero = () => {
         <div className="heroTexts">
           <h1>Tasnim Anas</h1>
           <p>
-            A final year B.Tech (CSE) guy exploring different technologies like
-            Web Development (Full Stack - MERN), App Development (Flutter),
-            Machine Learning (Python, Flask, Scikit-Learn), Cloud (AWS,
-            Firebase, Heroku) and Database technologies like SQL (MySQL,
-            PostgreSQL) and NoSQL (MongoDB)
+            A final-year B.Tech (CSE) guy exploring different technologies like
+            Web Development (Full Stack - <b>M</b>ongo <b>E</b>xpress<b> R</b>
+            eact <b>N</b>ode), App Development (Flutter), Machine Learning
+            (Python, Flask, Scikit-Learn), Cloud (AWS, Firebase, Heroku), and
+            Database Technologies like SQL (MySQL, PostgreSQL) and NoSQL
+            (MongoDB)
           </p>
         </div>
         <img src={heroImage} alt="heroImage" className="heroImage" />
