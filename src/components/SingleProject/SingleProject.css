@@ -1,0 +1,30 @@
+.singleProject {
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.singleProject:hover {
+  transform: scale(1.05);
+}
+
+.projectImage {
+  width: 100%;
+  min-height: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.projectName {
+  background-color: white;
+  border-radius: 0 0 10px 10px;
+  display: grid;
+  place-items: center;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

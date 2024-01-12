@@ -1,0 +1,41 @@
+.heroContainer {
+  display: grid;
+  /* background-color: aqua; */
+  place-items: center;
+  padding: 30px 20px;
+}
+
+.heroCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  gap: 50px;
+}
+
+.heroTexts h1 {
+  margin-bottom: 20px;
+  font-size: 40px;
+  letter-spacing: 1px;
+}
+
+.heroTexts p {
+  line-height: 18px;
+  letter-spacing: 1px;
+}
+
+.heroImage {
+  width: 30%;
+  padding: 30px;
+}
+
+@media screen and (max-width: 700px) {
+  .heroImage {
+    display: none;
+  }
+
+  .heroTexts h1 {
+    margin-bottom: 12px;
+    font-size: 30px;
+  }
+}
