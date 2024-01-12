@@ -38,4 +38,12 @@
     margin-bottom: 12px;
     font-size: 30px;
   }
+
+  .heroTexts p {
+    text-align: justify;
+  }
+
+  .heroCenter {
+    width: 85%;
+  }
 }
