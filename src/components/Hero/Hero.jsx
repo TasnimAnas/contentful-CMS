@@ -5,12 +5,12 @@ const Hero = () => {
     <section className="heroContainer">
       <div className="heroCenter">
         <div className="heroTexts">
-          <h1>Hero Heading</h1>
+          <h1>Tasnim Anas</h1>
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae
-            deserunt magnam maiores, perferendis ratione accusamus nulla unde
-            officia quaerat est asperiores voluptatibus autem iste dolore amet
-            beatae harum eligendi suscipit!
+            A final year B.tech guy exploring different technologies like Web
+            Development (Full Stack - MERN), App Development (Flutter), Machine
+            Learning (Python, Flask, Scikit-Learn), Cloud (AWS, Firebase,
+            Heroku) and Database technologies like SQL and NoSQL (MongoDB)
           </p>
         </div>
         <img src={heroImage} alt="heroImage" className="heroImage" />
